@@ -1,10 +1,8 @@
 ---
 layout: null
 title: 2013
-subtitle: Sex Differences in the Human Connectome
-image: "img/career/lab.jpg"
+subtitle: Sex Differences in the Human Connectome [BHI,13]
+image: "img/career/bhi.jpg"
 ---
-The human brain and the neuronal networks comprising it are of immense interest to the scientific community.
-We focus on the structural connectivity of human brains, investigating sex differences across male and female
-connectomes (brain-graphs). One of our main findings discloses a statistical difference at the pars-orbitalis 
-of the connectome between the sexes, which has been shown to function in language production.
+
+We investigate sex differences across male and female connectomes identifying several discriminative features. One of our main findings discloses a statistical difference at the pars-orbitalis of the connectome between the sexes, which has been shown to function in language production.

@@ -1,8 +1,8 @@
 ---
 layout: null
 title: 2014
-subtitle: Inducing Language Networks
-image: "img/career/lab.jpg"
+subtitle: Inducing Language Networks [Complex Networks IV, 2014]
+image: "img/career/ln.jpg"
 ---
 We induced networks on continuous space representations of words over the Polyglot and Skipgram models. 
 We compared the structural properties of these networks and demonstrate that these networks differ 
