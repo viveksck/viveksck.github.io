@@ -1,9 +1,0 @@
----
-layout: null
-title: 2005
-subtitle:
-image: "img/career/2005.png"
----
-Released [SMTP Diagnostics][1], White Peak Software's first product.
-
-[1]: http://whitepeaksoftware.com/main/smtp-diagnostics/index
