@@ -1,15 +1,10 @@
-url: http://www.kirbyturner.com
+url: http://viveksck.github.io
 baseurl: 
 
 # Site Settings
 title: Vivek Kulkarni
-#description: "Kirby Turner is an independent software developer, author, and owner of Stowe, VT-based White Peak Software Inc. Kirby focuses Mac and iOS programming."
-#keywords: "ios, mac, programming, stowe, vt, vermont, cocoa, developer, contractor, freelancer"
-#google-tracking-id: UA-167605-13
-
 # Career Settings
 # Default career thumbnail image.
 career-img: "img/career/default.jpg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
-#include: ["keybase.txt"]
