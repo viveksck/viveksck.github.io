@@ -7,4 +7,4 @@ image: "img/career/ln.jpg"
 We induced networks on continuous space representations of words over the Polyglot and Skipgram models. 
 We compared the structural properties of these networks and demonstrate that these networks differ 
 from networks constructed through other run of the mill methods. We also demonstrated that these networks 
-exhibit a rich and varied community structure.
+exhibit a rich and varied community structure. [pdf](http://viveksck.github.io/data/networks.pdf)
