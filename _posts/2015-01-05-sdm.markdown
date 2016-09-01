@@ -7,4 +7,4 @@ image: "img/career/hindi.jpg"
 We build a Named Entity Recognition system (NER) for 40 languages using only language agnostic methods. 
 Our system relies only on un-supervised methods for feature generation. We obtain training data for the
 task of NER through a semi-supervised technique not relying whatsoever on any language specific or
-orthographic features. This approach allows us to scale to large set of languages for which little human expertise and human annotated training data is available
+orthographic features. This approach allows us to scale to large set of languages for which little human expertise and human annotated training data is available. [pdf](http://viveksck.github.io/data/ner.pdf)
