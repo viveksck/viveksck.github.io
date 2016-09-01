@@ -2,7 +2,7 @@
 layout: null
 title: 2016
 subtitle: Freshman or Fresher? Quantifying the Geographic Variation of Internet Language [ICWSM, 2016]
-image: "img/career/geodist.png"
+image: "img/career/geodist_square.png"
 ---
 We present a new computational technique to detect and analyze statistically significant geographic variation in language. Our meta-analysis approach captures statistical properties of word usage across geographical regions and uses statistical methods to identify significant changes specific to regions. While previous approaches have primarily focused on lexical variation between regions, our method identifies words that demonstrate semantic and syntactic variation as well. 
 We extend recently developed techniques for neural language models to learn word representations which capture differing semantics across geographical regions. In order to quantify this variation and ensure robust detection of true regional differences, we formulate a null model to determine whether observed changes are statistically significant. Our method is the first such approach to explicitly account for random variation due to chance while detecting regional variation in word meaning. 
