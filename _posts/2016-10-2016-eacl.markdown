@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2016
+subtitle: Domain Adaptation for Named Entity Recognition in Online Media with Word Embeddings.
+image: "img/career/domain.png"
+---
+In this paper, we propose methods to effectively adapt models learned on one domain onto other domains using distributed word representations. First we analyze the linguistic variation present across domains to identify key linguistic insights that can boost performance across domains. We propose methods to capture domain specific semantics of word usage in addition to global semantics. We then demonstrate how to effectively use such domain specific knowledge to learn NER models that outperform previous baselines in the domain adaptation setting. [pdf](http://viveksck.github.io/data/domain.pdf)
