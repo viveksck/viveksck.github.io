@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2016
+subtitle: Multiscale Graph Embeddings for Interpretable Network Classification.
+image: "img/career/ln.jpg"
+---
+We present Walklets, a novel approach for learning multiscale representations of vertices in a network. These representations clearly encode multiscale vertex relationships in a continuous vector space suitable for multi-label classification problems. Unlike previous work, the latent features generated using Walklets are analytically derivable, and human interpretable [pdf](http://viveksck.github.io/data/walklets.pdf)
