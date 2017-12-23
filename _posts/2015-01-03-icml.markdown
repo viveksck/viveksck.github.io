@@ -1,9 +1,0 @@
----
-layout: null
-title: 2015
-subtitle: Robustness and Stability of Dropout
-image: "img/career/dropout.png"
----
-
-Training deep belief networks (DBNs) requires optimizing a non-convex function with an extremely large number of parameters. Dropout is a popular heuristic that has been practically shown to avoid local minima when training these networks.
-We investigate the robustness and stability properties of Dropout. We empirically validate our stability assertions for dropout in the context of convex ERMs and show that surprisingly, dropout significantly outperforms (in terms of prediction accuracy) the L2 regularization based methods for several benchmark datasets. [pdf](http://viveksck.github.io/data/dropout.pdf)
